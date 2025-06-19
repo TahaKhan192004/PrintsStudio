@@ -1,0 +1,910 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Source\\Repos\\scd_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\pages\\confirmordercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\pages\\confirmordercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\services\\usercartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\services\\usercartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\pages\\addtocardcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\pages\\addtocardcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\models\\customizationoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\models\\customizationoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\pages\\allorderscomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\pages\\allorderscomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\pages\\designerformcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\pages\\designerformcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\services\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\services\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\services\\designerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\services\\designerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\models\\productdesigntemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\models\\productdesigntemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\pages\\logincomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\pages\\logincomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\pages\\designerprofilecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\pages\\designerprofilecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\pages\\designercardcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\pages\\designercardcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\pages\\designercataloguecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\pages\\designercataloguecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\pages\\navcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\pages\\navcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\pages\\addproductcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\pages\\addproductcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\pages\\designercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\pages\\designercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\pages\\signupcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\pages\\signupcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\models\\designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\models\\designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\pages\\footercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\pages\\footercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\services\\customizationoptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\services\\customizationoptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\services\\productdesigntemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\services\\productdesigntemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\scd_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\scd_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\pages\\cataloguecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\pages\\cataloguecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\pages\\productcardcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\pages\\productcardcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\models\\contactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\models\\contactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\pages\\whatwedocomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\pages\\whatwedocomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\pages\\contactuscomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\pages\\contactuscomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\pages\\faqcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\pages\\faqcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\pages\\herocomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\pages\\herocomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\pages\\trendingnowcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\pages\\trendingnowcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\pages\\caourselcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\pages\\caourselcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\pages\\aboutuscomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\pages\\aboutuscomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|c:\\users\\dell\\source\\repos\\scd_project\\scd_project\\wwwroot\\images\\sticker.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{24650C9A-01DC-49A8-BC18-821F62BB16E8}|scd_project\\scd_project.csproj|solutionrelative:scd_project\\wwwroot\\images\\sticker.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 302,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddToCardComponent.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\AddToCardComponent.razor",
+              "RelativeDocumentMoniker": "scd_project\\Pages\\AddToCardComponent.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\AddToCardComponent.razor",
+              "RelativeToolTip": "scd_project\\Pages\\AddToCardComponent.razor",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAIAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T11:29:26.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserCartService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Services\\UserCartService.cs",
+              "RelativeDocumentMoniker": "scd_project\\Services\\UserCartService.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Services\\UserCartService.cs",
+              "RelativeToolTip": "scd_project\\Services\\UserCartService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:35:19.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfirmOrderComponent.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\ConfirmOrderComponent.razor",
+              "RelativeDocumentMoniker": "scd_project\\Pages\\ConfirmOrderComponent.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\ConfirmOrderComponent.razor",
+              "RelativeToolTip": "scd_project\\Pages\\ConfirmOrderComponent.razor",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T13:16:28.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "scd_project\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Services\\OrderService.cs",
+              "RelativeToolTip": "scd_project\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:51:52.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "scd_project\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Models\\OrderItem.cs",
+              "RelativeToolTip": "scd_project\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:11:15.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomizationOption.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Models\\CustomizationOption.cs",
+              "RelativeDocumentMoniker": "scd_project\\Models\\CustomizationOption.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Models\\CustomizationOption.cs",
+              "RelativeToolTip": "scd_project\\Models\\CustomizationOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:12:52.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "scd_project\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Models\\LoginModel.cs",
+              "RelativeToolTip": "scd_project\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:52:20.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "scd_project\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Models\\Order.cs",
+              "RelativeToolTip": "scd_project\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:11:07.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AllOrdersComponent.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\AllOrdersComponent.razor",
+              "RelativeDocumentMoniker": "scd_project\\Pages\\AllOrdersComponent.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\AllOrdersComponent.razor",
+              "RelativeToolTip": "scd_project\\Pages\\AllOrdersComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T12:39:42.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DesignerFormComponent.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\DesignerFormComponent.razor",
+              "RelativeDocumentMoniker": "scd_project\\Pages\\DesignerFormComponent.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\DesignerFormComponent.razor",
+              "RelativeToolTip": "scd_project\\Pages\\DesignerFormComponent.razor",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAAKkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T12:25:57.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderItemService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Services\\OrderItemService.cs",
+              "RelativeDocumentMoniker": "scd_project\\Services\\OrderItemService.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Services\\OrderItemService.cs",
+              "RelativeToolTip": "scd_project\\Services\\OrderItemService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:50:15.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "scd_project\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Services\\UserService.cs",
+              "RelativeToolTip": "scd_project\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:35:40.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DesignerService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Services\\DesignerService.cs",
+              "RelativeDocumentMoniker": "scd_project\\Services\\DesignerService.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Services\\DesignerService.cs",
+              "RelativeToolTip": "scd_project\\Services\\DesignerService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:55:46.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductDesignTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Models\\ProductDesignTemplate.cs",
+              "RelativeDocumentMoniker": "scd_project\\Models\\ProductDesignTemplate.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Models\\ProductDesignTemplate.cs",
+              "RelativeToolTip": "scd_project\\Models\\ProductDesignTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:13:34.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "scd_project\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "scd_project\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:26:43.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "scd_project\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Models\\Product.cs",
+              "RelativeToolTip": "scd_project\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T17:19:09.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginComponent.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\LoginComponent.razor",
+              "RelativeDocumentMoniker": "scd_project\\Pages\\LoginComponent.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\LoginComponent.razor",
+              "RelativeToolTip": "scd_project\\Pages\\LoginComponent.razor",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIQAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T20:01:33.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DesignerProfileComponent.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\DesignerProfileComponent.razor",
+              "RelativeDocumentMoniker": "scd_project\\Pages\\DesignerProfileComponent.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\DesignerProfileComponent.razor",
+              "RelativeToolTip": "scd_project\\Pages\\DesignerProfileComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T18:06:58.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DesignerCardComponent.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\DesignerCardComponent.razor",
+              "RelativeDocumentMoniker": "scd_project\\Pages\\DesignerCardComponent.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\DesignerCardComponent.razor",
+              "RelativeToolTip": "scd_project\\Pages\\DesignerCardComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T05:33:10.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DesignerCatalogueComponent.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\DesignerCatalogueComponent.razor",
+              "RelativeDocumentMoniker": "scd_project\\Pages\\DesignerCatalogueComponent.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\DesignerCatalogueComponent.razor",
+              "RelativeToolTip": "scd_project\\Pages\\DesignerCatalogueComponent.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T06:01:12.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NavComponent.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\NavComponent.razor",
+              "RelativeDocumentMoniker": "scd_project\\Pages\\NavComponent.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\NavComponent.razor",
+              "RelativeToolTip": "scd_project\\Pages\\NavComponent.razor",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAwwIEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T14:49:49.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Program.cs",
+              "RelativeDocumentMoniker": "scd_project\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Program.cs",
+              "RelativeToolTip": "scd_project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:43:30.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddProductComponent.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\AddProductComponent.razor",
+              "RelativeDocumentMoniker": "scd_project\\Pages\\AddProductComponent.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\AddProductComponent.razor",
+              "RelativeToolTip": "scd_project\\Pages\\AddProductComponent.razor",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAYwIQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T19:18:34.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "scd_project\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\wwwroot\\index.html",
+              "RelativeToolTip": "scd_project\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-17T21:20:16.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "scd_project\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\Home.razor",
+              "RelativeToolTip": "scd_project\\Pages\\Home.razor",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T14:50:12.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Models\\UserDTO.cs",
+              "RelativeDocumentMoniker": "scd_project\\Models\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Models\\UserDTO.cs",
+              "RelativeToolTip": "scd_project\\Models\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:34:30.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DesignerComponent.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\DesignerComponent.razor",
+              "RelativeDocumentMoniker": "scd_project\\Pages\\DesignerComponent.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\DesignerComponent.razor",
+              "RelativeToolTip": "scd_project\\Pages\\DesignerComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T20:19:06.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SignUPComponent.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\SignUPComponent.razor",
+              "RelativeDocumentMoniker": "scd_project\\Pages\\SignUPComponent.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\SignUPComponent.razor",
+              "RelativeToolTip": "scd_project\\Pages\\SignUPComponent.razor",
+              "ViewState": "AgIAAEgAAAAAAAAAAIBJwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T18:45:08.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Models\\Designer.cs",
+              "RelativeDocumentMoniker": "scd_project\\Models\\Designer.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Models\\Designer.cs",
+              "RelativeToolTip": "scd_project\\Models\\Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:13:53.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "scd_project\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Models\\Review.cs",
+              "RelativeToolTip": "scd_project\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:07:31.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FooterComponent.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\FooterComponent.razor",
+              "RelativeDocumentMoniker": "scd_project\\Pages\\FooterComponent.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\FooterComponent.razor",
+              "RelativeToolTip": "scd_project\\Pages\\FooterComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T20:45:36.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "scd_project\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "scd_project\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-25T13:59:47.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CustomizationOptionService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Services\\CustomizationOptionService.cs",
+              "RelativeDocumentMoniker": "scd_project\\Services\\CustomizationOptionService.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Services\\CustomizationOptionService.cs",
+              "RelativeToolTip": "scd_project\\Services\\CustomizationOptionService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:58:00.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "scd_project\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Services\\ProductService.cs",
+              "RelativeToolTip": "scd_project\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:49:07.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductDesignTemplateService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Services\\ProductDesignTemplateService.cs",
+              "RelativeDocumentMoniker": "scd_project\\Services\\ProductDesignTemplateService.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Services\\ProductDesignTemplateService.cs",
+              "RelativeToolTip": "scd_project\\Services\\ProductDesignTemplateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:43:46.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "scd_project\\Services\\ReviewService.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Services\\ReviewService.cs",
+              "RelativeToolTip": "scd_project\\Services\\ReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:38:49.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "scd_project.csproj",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\scd_project.csproj",
+              "RelativeDocumentMoniker": "scd_project\\scd_project.csproj",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\scd_project.csproj",
+              "RelativeToolTip": "scd_project\\scd_project.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T19:43:18.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CatalogueComponent.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\CatalogueComponent.razor",
+              "RelativeDocumentMoniker": "scd_project\\Pages\\CatalogueComponent.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\CatalogueComponent.razor",
+              "RelativeToolTip": "scd_project\\Pages\\CatalogueComponent.razor",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwDsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T17:37:59.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductCardComponent.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\ProductCardComponent.razor",
+              "RelativeDocumentMoniker": "scd_project\\Pages\\ProductCardComponent.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\ProductCardComponent.razor",
+              "RelativeToolTip": "scd_project\\Pages\\ProductCardComponent.razor",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAwwGUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T17:14:43.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ContactForm.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Models\\ContactForm.cs",
+              "RelativeDocumentMoniker": "scd_project\\Models\\ContactForm.cs",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Models\\ContactForm.cs",
+              "RelativeToolTip": "scd_project\\Models\\ContactForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:51:01.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "WhatWeDoComponent.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\WhatWeDoComponent.razor",
+              "RelativeDocumentMoniker": "scd_project\\Pages\\WhatWeDoComponent.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\WhatWeDoComponent.razor",
+              "RelativeToolTip": "scd_project\\Pages\\WhatWeDoComponent.razor",
+              "ViewState": "AgIAAHoAAAAAAAAAAIBJwH4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T20:55:03.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ContactUsComponent.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\ContactUsComponent.razor",
+              "RelativeDocumentMoniker": "scd_project\\Pages\\ContactUsComponent.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\ContactUsComponent.razor",
+              "RelativeToolTip": "scd_project\\Pages\\ContactUsComponent.razor",
+              "ViewState": "AgIAAGkAAAAAAAAAAIBJwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T19:38:23.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FaqComponent.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\FaqComponent.razor",
+              "RelativeDocumentMoniker": "scd_project\\Pages\\FaqComponent.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\FaqComponent.razor",
+              "RelativeToolTip": "scd_project\\Pages\\FaqComponent.razor",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAwwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T17:09:11.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HeroComponent.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\HeroComponent.razor",
+              "RelativeDocumentMoniker": "scd_project\\Pages\\HeroComponent.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\HeroComponent.razor",
+              "RelativeToolTip": "scd_project\\Pages\\HeroComponent.razor",
+              "ViewState": "AgIAAD0AAAAAAAAAAIBJwFMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T15:12:05.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TrendingNowComponent.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\TrendingNowComponent.razor",
+              "RelativeDocumentMoniker": "scd_project\\Pages\\TrendingNowComponent.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\TrendingNowComponent.razor",
+              "RelativeToolTip": "scd_project\\Pages\\TrendingNowComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T19:44:22.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CaourselComponent.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\CaourselComponent.razor",
+              "RelativeDocumentMoniker": "scd_project\\Pages\\CaourselComponent.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\CaourselComponent.razor",
+              "RelativeToolTip": "scd_project\\Pages\\CaourselComponent.razor",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwEEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T16:03:45.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AboutUsComponent.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\AboutUsComponent.razor",
+              "RelativeDocumentMoniker": "scd_project\\Pages\\AboutUsComponent.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Pages\\AboutUsComponent.razor",
+              "RelativeToolTip": "scd_project\\Pages\\AboutUsComponent.razor",
+              "ViewState": "AgIAACsAAAAAAAAAAIBJwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T19:27:11.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "scd_project\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "scd_project\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T14:57:50.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "scd_project\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "scd_project\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T20:07:13.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\App.razor",
+              "RelativeDocumentMoniker": "scd_project\\App.razor",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\App.razor",
+              "RelativeToolTip": "scd_project\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T20:08:40.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "sticker.png - PNG [225x225, 8 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\wwwroot\\images\\sticker.png",
+              "RelativeDocumentMoniker": "scd_project\\wwwroot\\images\\sticker.png",
+              "ToolTip": "C:\\Users\\dell\\Source\\Repos\\scd_project\\scd_project\\wwwroot\\images\\sticker.png - PNG [225x225, 8 bit, PNG]",
+              "RelativeToolTip": "scd_project\\wwwroot\\images\\sticker.png - PNG [225x225, 8 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-11T19:14:02.845Z",
+              "EditorCaption": " - PNG [225x225, 8 bit, PNG]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
